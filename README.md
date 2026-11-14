@@ -208,4 +208,4 @@ This repository serves as the official landing page for HMA VPN. The software is
 **Get the most recent version of HMA VPN today!**
 
 ---
-**Last updated:** 2026-11-14 11:55:46 UTC
+**Last updated:** 2026-11-14 17:40:16 UTC
